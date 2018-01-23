@@ -1,1 +1,3 @@
 Learning GIT
+
+Leaning push command
