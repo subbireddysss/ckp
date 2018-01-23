@@ -1,3 +1,9 @@
 Learning GIT
 
+<<<<<<< HEAD
 Leaning push command
+=======
+Devops
+
+AWS
+>>>>>>> 3b358f5bd4371028a56d81fd581bf0b59f3083d2
